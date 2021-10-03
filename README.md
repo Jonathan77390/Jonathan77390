@@ -1,0 +1,1 @@
+Bonjour, j'ai une ender 3 v2 , j'ai votre firmware depuis plusieurs et je viens d'installer un détecteur de filament, mais il fonctionne à l'envers, quand il n'y a pas de filament il croit qu'il y en a un, comment le régler ?? 
